@@ -3,6 +3,8 @@ Source code for the paper "Longitudinal body mass index and cancer risk: a cohor
 
 The code is intended as informative since it cannot be run without access to patients level data. In order to get access to it, you can consider request a new research project to SIDIAP (www.sidiap.org).
 
+The code run in R and it uses the tidy format. 
+
 The code is organized in data preparation and data analysis part.
 
 ### 1) Data preparation
