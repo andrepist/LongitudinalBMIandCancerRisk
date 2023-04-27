@@ -13,7 +13,15 @@ In this file you need to create definitions of cancer, type 2 diabetes mellitus 
 Multiple imputation is performed in the script MI and post-processed in join imp file.
 
 #### Time to event population preparation
-
+To create the population for the study, you can use the script dataPrepAnalysis. Before doing that, you will need to define the pre and post-menopausal status, using the scripts menopause_definition and pre-postmeno, and the BMI at index, using the corresponding script.
 
 
 ### 2) Data analysis
+
+#### Main analysis
+The main analysis is performed in the descriptive analysis, analysis_linear and analysis_spine scripts. Names are representative of the content of the scripts.
+
+#### Sensitivity analysis
+In this folder you will find all the sensitivity analyses performed. 
+
+For any doubt you can write and email to apistillo@idiapjgol.info or through this github.
