@@ -1,5 +1,5 @@
 # Longitudinal BMI and cancer risk
-Source code for the paper "Longitudinal body mass index and cancer risk: a cohort study of 2.6 million Catalan adults"
+Source code for the paper "Longitudinal body mass index and cancer risk: a cohort study of 2.6 million Catalan adults" (Recalde, M., Pistillo, A., Davila-Batista, V. et al. Longitudinal body mass index and cancer risk: a cohort study of 2.6 million Catalan adults. Nat Commun 14, 3816 (2023). https://doi.org/10.1038/s41467-023-39282-y)
 
 The code is intended as informative since it cannot be run without access to patients level data. In order to get access to it, you can consider request a new research project to SIDIAP (www.sidiap.org).
 
